@@ -1,5 +1,7 @@
-# In class I made a weather app, it uses the command line to find the curent weather in your city.
+#Weather App
 
-# Needs zip code or city and state.
+In class I made a weather app, it uses the command line to find the curent weather in your city.
 
-# Check it out.
+Needs zip code or city and state.
+
+Check it out.
